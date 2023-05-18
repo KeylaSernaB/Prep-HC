@@ -21,6 +21,7 @@ def Factorial(numero):
          resultado_factorial=  numero*Factorial(numero-1)   
     return resultado_factorial
 
+
 def EsPrimo(valor):
     '''
     Esta función devuelve el valor booleano True si el número reibido como parámetro es primo, de lo 
